@@ -34,13 +34,13 @@ function findShort(s) {
 ```
 ## **Experience**
 * https://scrap-job.herokuapp.com/
-* StarWars DataBase
+* StarWars DataBase  
 https://github.com/sanichtw/StarWarsDB-React
 * Multi-Page Educational Project in OOP Style
-(Includes Interaction with the Server) -
+(Includes Interaction with the Server) -  
 https://github.com/sanichtw/Loan
 * Educational Project (Includes Interaction with
-the Server)
+the Server)  
 https://github.com/sanichtw/PicturesART
 
 
